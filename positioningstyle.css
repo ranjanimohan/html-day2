@@ -1,0 +1,36 @@
+.d1{
+  background: gray;
+  position: relative;
+  margin: auto;
+  width: 800px;
+  height: 800px;
+}
+.d11{
+  background: cyan;
+  position: relative;
+  margin: auto;
+  width: 600px;
+  height: 600px;
+}
+.d111{
+  background: red;
+  position: absolute;
+  margin: auto;
+  width: 100px;
+  height: 100px;
+}
+.d112{
+  background: green;
+  position: absolute;
+  margin: auto;
+  left: 250px;
+  width: 100px;
+  height: 100px;
+}
+.d113{
+  background: blue;
+  position: relative;
+  left: 350px;
+  width: 100px;
+  height: 100px;
+}

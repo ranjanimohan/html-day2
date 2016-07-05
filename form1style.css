@@ -1,0 +1,10 @@
+label{
+  display: block;
+  font-family: sans-serif;
+  cursor: pointer;
+
+}
+textarea{
+  width: 300px;
+  height: 250px;
+}
